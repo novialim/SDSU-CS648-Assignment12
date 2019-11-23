@@ -1,0 +1,15 @@
+.Form-container {
+  padding-top: 50px;
+}
+
+.App-container {
+  max-width: 50vw !important;
+  text-align: left;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white !important;
+}
+
+.save-text-field {
+  max-width: 300px;
+}
